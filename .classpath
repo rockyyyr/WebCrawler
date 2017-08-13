@@ -2,5 +2,8 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Rocky/Coding/Jars/jaf-1_1_1.zip"/>
+	<classpathentry kind="lib" path="/Users/Rocky/Coding/Jars/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Rocky/Coding/Jars/google-api-services-customsearch-v1-rev56-java-1.22.0.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
